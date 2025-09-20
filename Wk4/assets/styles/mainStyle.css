@@ -1,0 +1,20 @@
+body{
+    color: black;
+    
+}
+
+a:link {
+color: blue;
+}
+/*unvisited*/ 
+
+a:visited{
+color: green;
+}
+a:hover{
+color: purple;
+}
+
+a:focus{
+color: darkkhaki;
+}
